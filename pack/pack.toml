@@ -1,0 +1,13 @@
+name = "Season Potluck"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "70f7ffef50519e61918b916f6a748e9e3517aefcb9e1d356391dda3f10776485"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.21.9"
+unsup = "1.1.6"
