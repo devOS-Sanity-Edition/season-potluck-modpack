@@ -17,18 +17,6 @@ file = "config/yosbr/config/immediatelyfast.json"
 hash = "fe6551b3aa77d3b624acff41ed6bf65b3d6d5c8821b7bda8875ff7b6b75e0c43"
 
 [[files]]
-file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "c668b4ad565c58243a1e0eb71884b17c77ab2242d983075f12dc2666060709ba"
-
-[[files]]
-file = "config/yosbr/config/servercore/config.yml"
-hash = "7ed78d3273aebb454ea062b841297b6a498364b997596383354402487e0e0434"
-
-[[files]]
-file = "config/yosbr/config/servercore/optimizations.yml"
-hash = "c1347aa983b02f5e59fcbd4f931501e2705330c5cf25e723d3239b85e6b6e262"
-
-[[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "5b24c9a57bb6092df95d9e8ec3c79574103967cef4db94508b9b172df1e447e5"
 
@@ -43,6 +31,11 @@ hash = "720665a797fd8303d3a2f4e528a449b043dbbd6e9b18bed8646ba98da4141c15"
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "e02301182da87b4b64f362e7b67a0faebc2a94f12d6c68b3d7ab24bfe4cffeec"
+metafile = true
+
+[[files]]
+file = "mods/badstdout.pw.toml"
+hash = "b2f2254fda825a08d1d41a6dcbeada190c772fda4e06ee06c1a8e6a6c7be51f7"
 metafile = true
 
 [[files]]
@@ -81,6 +74,11 @@ hash = "9eb0ad2cd0e409ea588069d7458f4cf2c705ecf71599e06dfe780b13de0013c6"
 metafile = true
 
 [[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "5dd45d5fd5e1ae2bd521b93a70b83c69b57ada18f424c6562d8c6ea9980cfb3e"
 metafile = true
@@ -91,6 +89,11 @@ hash = "4762935a3ab92c3ad07f3eb43a7bb8f9997066c9f8e9c68745f286e395f7b51e"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "2ac27f4c518e7f37ff8c57edd2ed1304d2ae4497641cd1efddc52c9f641ce475"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
 metafile = true
@@ -98,6 +101,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "88e1cf290eb023af36efe7b20d1fb880597326d132189763b293a644c203ebfb"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "237d4dddc43249d0abfb1049dccf0b1db14afbf58cbbb89eb6927e31ec890f56"
 metafile = true
 
 [[files]]
