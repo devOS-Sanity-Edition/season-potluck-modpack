@@ -50,7 +50,7 @@ unsup_patch = """
 unsup_config = """
 version=1
 source_format=packwiz
-source=http://localhost:8080/pack.toml
+source=http://potluck.devos.one/pack.toml
 preset=minecraft
 
 [branding]
