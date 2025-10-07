@@ -1,0 +1,13 @@
+name = "Wilder Wild"
+filename = "WilderWild-4.1.1-mc1.21.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AtHRJSUW/versions/Q7pgGPro/WilderWild-4.1.1-mc1.21.9.jar"
+hash-format = "sha512"
+hash = "e6223815363a01d1dc10b6a6c5c0dce79d7314333d5debb61fc829819ee617250a8af877b7ef8e3d5d40f7be68fe5327ccefb996ead1d92b13f308c8ead044eb"
+
+[update]
+[update.modrinth]
+mod-id = "AtHRJSUW"
+version = "Q7pgGPro"

@@ -29,6 +29,16 @@ file = "config/yosbr/options.txt"
 hash = "720665a797fd8303d3a2f4e528a449b043dbbd6e9b18bed8646ba98da4141c15"
 
 [[files]]
+file = "mods/allaybottle.pw.toml"
+hash = "d1c57735540c0ee844d1162d13c951403b5472bd06c000511a089ca4175d7470"
+metafile = true
+
+[[files]]
+file = "mods/always-a-bigger-fish.pw.toml"
+hash = "7ffa3a7af846370d2820c64a2ee7034a6e2b0fe18be956c48f8d6d0b6f0ef81f"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "e02301182da87b4b64f362e7b67a0faebc2a94f12d6c68b3d7ab24bfe4cffeec"
 metafile = true
@@ -49,6 +59,11 @@ hash = "ab92afc9c86b581a10eb4e8dc52a3640deeb6d03fb662f6f53b2a21e87d74405"
 metafile = true
 
 [[files]]
+file = "mods/compost.pw.toml"
+hash = "8aa0924e004967e53c32b39a2f6541b7a5f7e0a43f3905afd86822dacf1f3655"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "d541d1522108112346d35a6e9a3a9979d735cfc766d3ea6477c6306450c35f23"
 metafile = true
@@ -59,8 +74,18 @@ hash = "48a71da0cd96100ccc239fa88fb6280094f0a0b1a555a2bdcc2e58dc2d7ebcc5"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
+file = "mods/frozenlib.pw.toml"
+hash = "5d42caa948b9063f246ce0eb967084dc8cc3f1d5fa7865030f33add07dae3b8c"
 metafile = true
 
 [[files]]
@@ -109,8 +134,23 @@ hash = "237d4dddc43249d0abfb1049dccf0b1db14afbf58cbbb89eb6927e31ec890f56"
 metafile = true
 
 [[files]]
+file = "mods/toil-and-trouble.pw.toml"
+hash = "f206559700473a247ea060bf6bb0d58a5bf061e7d6b751489e4e363f770cc054"
+metafile = true
+
+[[files]]
+file = "mods/trailier-tales.pw.toml"
+hash = "f6bbf1cef6f19b2242b409b0d0b48c643d2c348f58999405f6bbe4a8cf9b0e74"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "0c418eebfec7cdff06480f9a0174d82c19f73ae6ff1c50c00aef5efb4c633003"
+metafile = true
+
+[[files]]
+file = "mods/wilder-wild.pw.toml"
+hash = "ed1533e56a2ea5242c6a4d89d366eb91eea0d9f8c32d6d2fb52ce514a46796e8"
 metafile = true
 
 [[files]]
