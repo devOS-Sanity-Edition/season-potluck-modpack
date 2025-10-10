@@ -29,9 +29,8 @@ file = "config/yosbr/options.txt"
 hash = "720665a797fd8303d3a2f4e528a449b043dbbd6e9b18bed8646ba98da4141c15"
 
 [[files]]
-file = "mods/allaybottle.pw.toml"
+file = "mods/allaybottle.pw.toml.disabled"
 hash = "d1c57735540c0ee844d1162d13c951403b5472bd06c000511a089ca4175d7470"
-metafile = true
 
 [[files]]
 file = "mods/always-a-bigger-fish.pw.toml"
@@ -40,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "e02301182da87b4b64f362e7b67a0faebc2a94f12d6c68b3d7ab24bfe4cffeec"
+hash = "ae86765993c59b09e06f972045b8f780e06c504f5210c0991a3b27b95dfacc80"
 metafile = true
 
 [[files]]
@@ -50,7 +49,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "058cc1595af8525f99ef777de3976429e53fe4bb902ad12a37bb77eb78640b62"
+hash = "cc6214db776bf19e920ba42ff6add6a9e61ea1e37dc8445607d40af90525c8eb"
 metafile = true
 
 [[files]]
@@ -70,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "48a71da0cd96100ccc239fa88fb6280094f0a0b1a555a2bdcc2e58dc2d7ebcc5"
+hash = "79625467f94812a83eb6fbf4e1d3884418937cc5b07fc708d05b7ab11dac16a5"
 metafile = true
 
 [[files]]
@@ -85,17 +84,17 @@ metafile = true
 
 [[files]]
 file = "mods/frozenlib.pw.toml"
-hash = "5d42caa948b9063f246ce0eb967084dc8cc3f1d5fa7865030f33add07dae3b8c"
+hash = "53f9d11dfb4f04ef21a523757ac4bffc7af9fed0fcb94a62b2db950b7d5e334f"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "ac9c6e202635d1ceccdf7171efd671196f02c1710ab99b2014e0139fdfaedfaa"
+hash = "5f40e2db6037f733566c81e8f11ca3c425d738eb5a182658691f36d041b5df40"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "9eb0ad2cd0e409ea588069d7458f4cf2c705ecf71599e06dfe780b13de0013c6"
+hash = "ed9d0d5d4078c137900006321d35515cee46058b92df1128ea37cda3e5e1bb2b"
 metafile = true
 
 [[files]]
@@ -125,32 +124,32 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "88e1cf290eb023af36efe7b20d1fb880597326d132189763b293a644c203ebfb"
+hash = "e8c961dbadf2dde334c857d0b42a6c6452aa77a146cf80d4febf7f46e4ac2ef6"
 metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
-hash = "237d4dddc43249d0abfb1049dccf0b1db14afbf58cbbb89eb6927e31ec890f56"
+hash = "c12114c9f15a75b6d9e9c0dd1b38424fe0206c6b89c7e18d49cd09c6ebc1b639"
 metafile = true
 
 [[files]]
 file = "mods/toil-and-trouble.pw.toml"
-hash = "f206559700473a247ea060bf6bb0d58a5bf061e7d6b751489e4e363f770cc054"
+hash = "b031290a3158b32956d0d4463e9422cb2252648f929c1e5f6f857b87e21535fb"
 metafile = true
 
 [[files]]
 file = "mods/trailier-tales.pw.toml"
-hash = "f6bbf1cef6f19b2242b409b0d0b48c643d2c348f58999405f6bbe4a8cf9b0e74"
+hash = "15fb3dfb0d8d55b3570825bed2eccebb1fe40bc6f751042c4c5dfaaba4e3f71e"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "0c418eebfec7cdff06480f9a0174d82c19f73ae6ff1c50c00aef5efb4c633003"
+hash = "10e262257f64db5f8e8488e2e572fab67e2ff1dec32359da83396618938b8043"
 metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "ed1533e56a2ea5242c6a4d89d366eb91eea0d9f8c32d6d2fb52ce514a46796e8"
+hash = "137e426ca8bf7376585929b169939d9f96a0780eff76bc9bdd56849828b974ca"
 metafile = true
 
 [[files]]
