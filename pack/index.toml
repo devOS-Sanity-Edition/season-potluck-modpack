@@ -145,6 +145,11 @@ hash = "0721e4971dac5b127e56ea4755d5cca0410ed63e60999342ab570cd06ce295dd"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "dc14a906254d528b5ce82c0617c7e15d1ebbd17e4dcc2e852719fad60e8aa2b5"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "5f40e2db6037f733566c81e8f11ca3c425d738eb5a182658691f36d041b5df40"
 metafile = true
@@ -172,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/mariposa.pw.toml"
 hash = "6fa1104cdb2f103298c032bc7d07964d81dc83f4a802a3dd5ce1cfbc7d2b928c"
+metafile = true
+
+[[files]]
+file = "mods/misctweaks.pw.toml"
+hash = "243a3b8324f9d820a21ae8e3e4609d50896dcd5118e8879725a224f7a0875c4d"
 metafile = true
 
 [[files]]
@@ -212,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "886b70d966a36dca61cbd19c4d3955ed657206ce9b8491aad7894c0a369355cd"
+metafile = true
+
+[[files]]
+file = "mods/simple-death-improvements.pw.toml"
+hash = "1ae79cbab1ca28b49d6aaa9fcf3c1c6ab7c421367d650bdc6a181820417ac263"
 metafile = true
 
 [[files]]

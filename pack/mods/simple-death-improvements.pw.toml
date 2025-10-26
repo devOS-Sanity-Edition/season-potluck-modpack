@@ -1,0 +1,13 @@
+name = "Simple Death Improvements"
+filename = "simple-death-improvements-1.4.0+1.21.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2JFsuD70/versions/MRmdyXa0/simple-death-improvements-1.4.0%2B1.21.10.jar"
+hash-format = "sha512"
+hash = "d796316d43f4226e36ae791756de08ddc04a07fb7dee3da80214cabda6d94853accd29d35f7464a503a3a95ee3acb69bcb91dae94c175f94fbe1bb93e2479e4a"
+
+[update]
+[update.modrinth]
+mod-id = "2JFsuD70"
+version = "MRmdyXa0"
