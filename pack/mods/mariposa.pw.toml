@@ -1,0 +1,13 @@
+name = "Mariposa"
+filename = "mariposa-1.0.4-1.21.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/udFHwV9z/versions/Bb8JOnIT/mariposa-1.0.4-1.21.9.jar"
+hash-format = "sha512"
+hash = "5aa3cea914c1b21c92bd553d4e49ce505122639ddbb83c08c9e286b8e5b70cd382fd6556c9cd0fc74caef2466f23b5849a36963dc56f61ce249c1ea61e513c64"
+
+[update]
+[update.modrinth]
+mod-id = "udFHwV9z"
+version = "Bb8JOnIT"

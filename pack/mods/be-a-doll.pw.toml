@@ -1,0 +1,15 @@
+name = "be-a-doll"
+filename = "be-a-doll-1.0.9+fabric-1.21.9.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Teal-Wolf-25-v2/be-a-doll/releases/download/1.21.9-10/be-a-doll-1.0.9%2Bfabric-1.21.9.jar"
+hash-format = "sha256"
+hash = "7f8ab94aab88b2a63c1f5858d4dc4d98e8ab6e59cd435fe78b4e1b2c6f88e2c6"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "Teal-Wolf-25-v2/be-a-doll"
+tag = "1.21.9-10"

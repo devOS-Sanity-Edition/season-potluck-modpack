@@ -1,0 +1,13 @@
+name = "Thermoo"
+filename = "thermoo-8.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9TbXlAut/versions/HKC223uN/thermoo-8.0.2.jar"
+hash-format = "sha512"
+hash = "a737c51c1e593bd444a5d8a60ae24a5120cb68ce1ae61c23fb9819b300d30111750e5ebf3860331ffe1030bd9898a7c65b05e4a4243f3f5489f3db4be1f2961d"
+
+[update]
+[update.modrinth]
+mod-id = "9TbXlAut"
+version = "HKC223uN"

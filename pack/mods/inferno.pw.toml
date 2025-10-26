@@ -1,0 +1,13 @@
+name = "Inferno"
+filename = "inferno-1.21.10-r2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ORIQOtZ5/versions/eAV9T7hf/inferno-1.21.10-r2.jar"
+hash-format = "sha512"
+hash = "4345da2485b61dc45f6d844851b6cce7040626c615377c57301252850fc0d7e2f9d27a1a54a1b3621fdf168dc2846dfb13f13f64cc583c37d284cd2876c13fe2"
+
+[update]
+[update.modrinth]
+mod-id = "ORIQOtZ5"
+version = "eAV9T7hf"
