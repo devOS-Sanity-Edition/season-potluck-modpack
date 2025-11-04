@@ -1,0 +1,13 @@
+name = "Colored Slime Blocks"
+filename = "coloredslime-1.11.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9CnODJSH/versions/dXNj7R0U/coloredslime-1.11.2.jar"
+hash-format = "sha512"
+hash = "cf2f45604edf48a375b6e88b42a81ba02cbe7ca9edb98708918703a4babce111d40d81f376e158caa29118ebff7b59124241ed921176c0d34c0250b492c17ed1"
+
+[update]
+[update.modrinth]
+mod-id = "9CnODJSH"
+version = "dXNj7R0U"

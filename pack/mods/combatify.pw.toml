@@ -1,13 +1,13 @@
 name = "Combatify"
-filename = "combatify-1.21.9-Fabric-1.2.13.release.jar"
+filename = "combatify-1.21.9-Fabric-1.3.0.release.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kRYhslBa/versions/qd9vvqo4/combatify-1.21.9-Fabric-1.2.13.release.jar"
+url = "https://cdn.modrinth.com/data/kRYhslBa/versions/OpBQjeZ2/combatify-1.21.9-Fabric-1.3.0.release.jar"
 hash-format = "sha512"
-hash = "4be462f90b08eab76397661303cc3bb4b207e086f12011a2dfde3e4911874bc81ace822bb1bae06afd5d3e0ce20d5c34215d120b70db1db78c8d049cec07ffe9"
+hash = "95bf1cedd0ccdda0a15d7b94a6ad6695c69405317969e6479615ebe09f635c2d27821bfb8964434c7ddd701b8e8a3ef4ff43478cf4eba9173757dc34e3612afc"
 
 [update]
 [update.modrinth]
 mod-id = "kRYhslBa"
-version = "qd9vvqo4"
+version = "OpBQjeZ2"

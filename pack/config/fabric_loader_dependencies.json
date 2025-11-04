@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "overrides": {
+    "x-bar-theory": {
+      "depends": {
+        "fabric-api": "*"
+      }
+    },
+    "yyzsbackpack": {
+      "depends": {
+        "minecraft": "1.21.10"
+      }
+    },
+    "allaybottle": {
+      "depends": {
+        "minecraft": "1.21.10"
+      }
+    }
+  }
+}

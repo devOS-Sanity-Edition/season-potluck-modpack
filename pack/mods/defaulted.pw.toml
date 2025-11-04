@@ -1,13 +1,13 @@
 name = "Defaulted"
-filename = "defaulted-fabric-1.21.9-1.1.6.1.jar"
+filename = "defaulted-fabric-1.21.9-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LxgPJAAy/versions/BlSr86By/defaulted-fabric-1.21.9-1.1.6.1.jar"
+url = "https://cdn.modrinth.com/data/LxgPJAAy/versions/xlAP4VKs/defaulted-fabric-1.21.9-1.2.1.jar"
 hash-format = "sha512"
-hash = "76104d6311f82e26fae10d0088e2ce458e4732fa515862051f4be1770889273096ef57cec77d95718d173b404f71dcbe9a146a2dad4f46f140cbdf199946d108"
+hash = "e812b3f8abf7603c20c21f3cb786a1065491d88eac49ed1dbec9c46b878731b80bbe7d48b6a62e3958dc1088898547890c424f550ca6280938712cf015e63b31"
 
 [update]
 [update.modrinth]
 mod-id = "LxgPJAAy"
-version = "BlSr86By"
+version = "xlAP4VKs"

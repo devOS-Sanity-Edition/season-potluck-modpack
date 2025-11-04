@@ -1,13 +1,16 @@
-name = "Season Potluck"
+name = "devOS Season Potluck"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "35e52dd28dac8c0480ca9f3fc50aa619dadccc6b96e8bd1ab329d59e6700252b"
+hash = "206fa875e816a7a34a13293dc2e0f09977e63e27dd13880cf44e4863bf9fe95c"
 
 [versions]
 fabric = "0.17.3"
 minecraft = "1.21.10"
 unsup = "1.1.6"
+
+[options]
+acceptable-game-versions = ["1.21.9"]
