@@ -95,8 +95,8 @@ hash = "c86e75b4a1a6d5ccd8481e4cacd4085198317ee03eecd39358dcc76c7ae42a64"
 metafile = true
 
 [[files]]
-file = "mods/clientier-1.0.0+rev.410e89b.jar"
-hash = "f2be3516dc1b53fc302bc08e99a4a150f62a1075e60973b520ec8cb5e4f66b72"
+file = "mods/clientier-1.0.0+rev.c9340f7.jar"
+hash = "51307798aae5fc6820a5bcb328912779ce73f98a4dfc664a17b2b818d78c76c3"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
