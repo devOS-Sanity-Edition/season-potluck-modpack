@@ -9,6 +9,10 @@ file = "config/fabric_loader_dependencies.json"
 hash = "383126b33e651358f3609a4daa02d0914d8fb10fcbd252743ec84b4a3e5280ae"
 
 [[files]]
+file = "config/structurify.json"
+hash = "548e538211b87ea05ed135a288a8b5e1ab218d98e716bad65c1fa8921ab797b4"
+
+[[files]]
 file = "config/yosbr/config/badoptimizations.txt"
 hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
 
@@ -282,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/polyfactory.pw.toml"
-hash = "07c4c2aabbff75e98110ef8260e371fa1968ab81561d2f88545896b37da8b016"
+hash = "aa8a3ba5b28f9d097fa9992825da1a69b919faf6ea0cfca62caea8f7ee7a7556"
 metafile = true
 
 [[files]]
@@ -336,12 +340,17 @@ metafile = true
 
 [[files]]
 file = "mods/strawberrylib.pw.toml"
-hash = "09e17adb14bee8af83044a50ae02d8d3874c830a02cfc0afcd4a6998a84724df"
+hash = "6dd9ca3f03b9264c869bf39bdfc7e9eaf5e3a9dad0b711dae239899f093d0530"
 metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "f6304454d85aaee0b0c475094cd723585a71db537d1304f22b89fa87c5c9b407"
+metafile = true
+
+[[files]]
+file = "mods/structurify.pw.toml"
+hash = "363e1884257a04f7d096f4234e3891bf4ee1a2e74e149f86e9dfbdb589d1d011"
 metafile = true
 
 [[files]]
