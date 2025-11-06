@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "1962cda76b2ef0e81ff943c68488e21f01b8a8317c01ae2a2b544fbc6fafdf99"
+hash = "731284bbfcd8900314bac3244877a4dd7688f14b7142af41d7dc5bd6250dd12d"
 metafile = true
 
 [[files]]
@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "336bea7fbe2bbbae3875ac59dbc0d11a7f1eb247a5f23e951c136bcd952a6086"
+hash = "b51659a7fdd17e134028a747bd8e4e8fb9ab9d88038577d088049a5c381f09dc"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/scorchful.pw.toml"
-hash = "b8d679065611086f3cf7ecf41af471dbcb5a5b5268aeae8a86d5c74135f1ed38"
+hash = "775a48368d72a2d5fe4bc0371ba16136c54b6a18110e0f616de5f2de2672de30"
 metafile = true
 
 [[files]]
@@ -317,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/simple-death-improvements.pw.toml"
 hash = "1ae79cbab1ca28b49d6aaa9fcf3c1c6ab7c421367d650bdc6a181820417ac263"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "cdde1ed66709cde0656be902a1109532f255fd1526991acebe91116a4ab399df"
 metafile = true
 
 [[files]]
@@ -381,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/x-bar-theory.pw.toml"
-hash = "8d2421322cfef61e52877964dd3a12dbbad2bde89ba360047490a74ebd818f79"
+hash = "9cf1b88fb7bec0cde48a50143d0bb8cd5e54fdd03e314c054fe2f182eaf14c57"
 metafile = true
 
 [[files]]
