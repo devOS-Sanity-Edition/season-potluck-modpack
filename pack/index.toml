@@ -409,6 +409,5 @@ hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
-file = "mods/yyzs-backpack.pw.toml"
-hash = "d8745928ea0054cbf95a0ffe3fa49744b43443fc3b8dbd3dcde07340f177354c"
-metafile = true
+file = "mods/yyzsbackpack-fabric-21.9.6-render-state-crash-patch.jar"
+hash = "803946c6722eec90ea5b588d5c8f8e56ea38ef7862bdef1ff4eecdb990589085"
